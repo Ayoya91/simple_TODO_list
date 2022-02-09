@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+#app{
+margin:0 80px 20px 80px;
+background-image: linear-gradient(#fca429,#fcf962);
+border-radius: 30px;
+padding:10px 20px;
+}
+#appContainer{
+    text-align: center;
+   
+}
+h2 {
+    text-align: center;
+}
+input{
+    padding: 10px ;
+    border-radius: 10px;
+    
+}
+#taskIP{
+    width: 90%;
+}
+#btn{
+margin:10px;
+padding:10px 20px ;
+font-size: 1rem;
+}
+.rot{
+    background-color:#e30a1194;
+    padding: 0 5px;
+    border-radius: 10px;
+    width:80%;
+}
+.grun{
+   background-color:#2d8b179c;
+   padding: 0 5px;
+    border-radius: 10px;
+    width:80%;
+}
